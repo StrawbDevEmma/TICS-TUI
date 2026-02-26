@@ -91,13 +91,13 @@ pytest
 
 ## Comparison with Alternatives
 
-| Feature | TICS | pyMC_Console | Default pyMC_Repeater UI |
-|---------|------|--------------------------|
-| Open Source | ✓ | ✗ | Partially | 
-| Free | ✓ | ✓ | ✓ |
-| Modifiable | ✓ | ✗ | Partially |
-| Community Driven | ✓ | ✗ | Partially |
-| Interface | TUI | Web | Web |
+| Feature             | TICS | pyMC_Console | Default pyMC_Repeater UI |
+|---------------------|:----:|:------------:|:------------------------:|
+| Open Source         |  ✓   |      ✗       |        Partially         |
+| Free                |  ✓   |      ✓       |            ✓             |
+| Modifiable          |  ✓   |      ✗       |        Partially         |
+| Community Driven    |  ✓   |      ✗       |        Partially         |
+| Interface           | TUI  |     Web      |           Web            |
 
 ## Documentation
 
@@ -120,17 +120,12 @@ pytest
 - [ ] Performance monitoring dashboard
 - [ ] Documentation
 
+---
 ## Acknowledgments
 
 TICS is built with:
 - [pyMC_Repeater](https://github.com/pymc-devs/pymc_repeater) - The core API
 - [Textual](https://github.com/Textualize/textual) - TUI framework## Roadmap
-
-- [ ] v1.0 - Initial stable release
-- [ ] Advanced filtering and search
-- [ ] Custom theme support
-- [ ] Performance monitoring dashboard
-- [ ] Documentation
 
 ---
 ## License
